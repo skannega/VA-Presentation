@@ -1,0 +1,52 @@
+,state,population,id,code,name,namelower
+0,alabama,4858979,1,AL,Alabama,alabama
+1,alaska,738432,2,AK,Alaska,alaska
+2,arizona,6828065,4,AZ,Arizona,arizona
+3,arkansas,2978204,5,AR,Arkansas,arkansas
+4,california,39144818,6,CA,California,california
+5,colorado,5456574,8,CO,Colorado,colorado
+6,connecticut,3590886,9,CT,Connecticut,connecticut
+7,delaware,945934,10,DE,Delaware,delaware
+8,district of columbia,672228,11,DC,District of Columbia,district of columbia
+9,florida,20271272,12,FL,Florida,florida
+10,georgia,10214860,13,GA,Georgia,georgia
+11,hawaii,1431603,15,HI,Hawaii,hawaii
+12,idaho,1654930,16,ID,Idaho,idaho
+13,illinois,12859995,17,IL,Illinois,illinois
+14,indiana,6619680,18,IN,Indiana,indiana
+15,iowa,3123899,19,IA,Iowa,iowa
+16,kansas,2911641,20,KS,Kansas,kansas
+17,kentucky,4425092,21,KY,Kentucky,kentucky
+18,louisiana,4670724,22,LA,Louisiana,louisiana
+19,maine,1329328,23,ME,Maine,maine
+20,maryland,6006401,24,MD,Maryland,maryland
+21,massachusetts,6794422,25,MA,Massachusetts,massachusetts
+22,michigan,9922576,26,MI,Michigan,michigan
+23,minnesota,5489594,27,MN,Minnesota,minnesota
+24,mississippi,2992333,28,MS,Mississippi,mississippi
+25,missouri,6083672,29,MO,Missouri,missouri
+26,montana,1032949,30,MT,Montana,montana
+27,nebraska,1896190,31,NE,Nebraska,nebraska
+28,nevada,2890845,32,NV,Nevada,nevada
+29,new hampshire,1330608,33,NH,New Hampshire,new hampshire
+30,new jersey,8958013,34,NJ,New Jersey,new jersey
+31,new mexico,2085109,35,NM,New Mexico,new mexico
+32,new york,19795791,36,NY,New York,new york
+33,north carolina,10042802,37,NC,North Carolina,north carolina
+34,north dakota,756927,38,ND,North Dakota,north dakota
+35,ohio,11613423,39,OH,Ohio,ohio
+36,oklahoma,3911338,40,OK,Oklahoma,oklahoma
+37,oregon,4028977,41,OR,Oregon,oregon
+38,pennsylvania,12802503,42,PA,Pennsylvania,pennsylvania
+39,rhode island,1056298,44,RI,Rhode Island,rhode island
+40,south carolina,4896146,45,SC,South Carolina,south carolina
+41,south dakota,858469,46,SD,South Dakota,south dakota
+42,tennessee,6600299,47,TN,Tennessee,tennessee
+43,texas,27469114,48,TX,Texas,texas
+44,utah,2995919,49,UT,Utah,utah
+45,vermont,626042,50,VT,Vermont,vermont
+46,virginia,8382993,51,VA,Virginia,virginia
+47,washington,7170351,53,WA,Washington,washington
+48,west virginia,1844128,54,WV,West Virginia,west virginia
+49,wisconsin,5771337,55,WI,Wisconsin,wisconsin
+50,wyoming,586107,56,WY,Wyoming,wyoming
